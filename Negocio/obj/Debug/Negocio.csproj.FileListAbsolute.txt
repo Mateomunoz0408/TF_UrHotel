@@ -1,0 +1,12 @@
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Negocio\bin\Debug\Negocio.dll
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Negocio\bin\Debug\Negocio.pdb
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Negocio\bin\Debug\Datos.dll
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Negocio\bin\Debug\EntityFramework.dll
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Negocio\bin\Debug\Datos.pdb
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Negocio\bin\Debug\Datos.dll.config
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Negocio\bin\Debug\EntityFramework.xml
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Negocio\obj\Debug\Negocio.dll
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Negocio\obj\Debug\Negocio.pdb

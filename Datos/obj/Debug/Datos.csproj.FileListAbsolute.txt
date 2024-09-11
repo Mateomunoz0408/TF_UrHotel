@@ -1,0 +1,12 @@
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Datos\bin\Debug\Datos.dll.config
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Datos\bin\Debug\Datos.dll
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Datos\bin\Debug\Datos.pdb
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Datos\bin\Debug\EntityFramework.dll
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Datos\bin\Debug\EntityFramework.xml
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Datos\obj\Debug\Datos.dll
+D:\Ciclos\8 ciclo (7.5)\Fundamentos\TF\TF_UrHotel\Datos\obj\Debug\Datos.pdb
